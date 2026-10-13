@@ -1,0 +1,6 @@
+interface:
+  display_name: "Project Blueprint"
+  short_description: "Research open-source options and turn rough ideas into build-ready project specifications."
+  default_prompt: "Use $project-blueprint to research mature free/open-source solutions first, then turn my rough ideas into a verified, Codex-ready project blueprint."
+policy:
+  allow_implicit_invocation: true
