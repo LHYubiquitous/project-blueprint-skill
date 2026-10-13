@@ -1,5 +1,7 @@
 # Project Blueprint Skill
 
+[中文文档](README.zh-CN.md)
+
 `project-blueprint` turns rough ideas, conversations, or an existing project into a research-backed, implementation-ready blueprint. It searches for reusable open-source solutions before recommending new code, then produces traceable requirements, architecture, tasks, risks, costs, and handoff documentation.
 
 The skill is written primarily in Simplified Chinese and can respond in the user's language.
